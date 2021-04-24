@@ -1,6 +1,7 @@
  This is sample file1
 
 
+Merging branches 1
 
+hello how are you
 
- Merging branches 1
