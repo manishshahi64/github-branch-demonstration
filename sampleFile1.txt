@@ -1,1 +1,6 @@
- This is sample file1 
+ This is sample file1
+
+
+
+
+ Merging branches 1
