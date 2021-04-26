@@ -5,3 +5,4 @@ Merging branches 1
 
 hello how are you
 
+This is Git Stash example
